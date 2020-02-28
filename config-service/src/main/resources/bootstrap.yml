@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/connell1912/rms-config-service
+          uri: https://github.com/connell1912/rms-config-service/tree/connor
           force-pull: true
